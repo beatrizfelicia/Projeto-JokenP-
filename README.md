@@ -10,6 +10,4 @@ O computador faz uma escolha aleatória entre pedra, papel ou tesoura.
 O programa verifica quem venceu a rodada com base nas escolhas feitas.
 O programa exibe o resultado da rodada e pergunta se o usuário deseja jogar novamente. 
 </p>
-<br>
-<br>
-Visite nosso site! <a href="https://beatrizfelicia.github.io/Projeto-JokenP-/">
+
